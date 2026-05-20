@@ -47,7 +47,7 @@ This is a functional foundation, but here are some exciting features that can be
 
 ## 👩‍💻 About the Developer
 
-Built by **Vartika Dwivedi** 
+Built by Vartika Dwivedi!
 
 I am a creative coder and developer who loves exploring the intersection of clean logic, structured data structures, and expressive visual design. 
 
